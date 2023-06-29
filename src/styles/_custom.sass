@@ -2,18 +2,24 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
+    top: 22%
     right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(10px)
 
   100%
     transform: translateY(0px)
+
+
+.cajon.color-acento-contenido
+  background-color: lighten($color-acento-contenido, 15%)
+
+.slyder-b__img
+  border-radius: 0px
+
+span.etiqueta
+  background-color: lighten($color-acento-contenido, 15%)
+  color: #000000
