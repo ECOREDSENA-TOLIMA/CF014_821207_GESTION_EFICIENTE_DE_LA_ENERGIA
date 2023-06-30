@@ -114,7 +114,7 @@
               h4.mb-1 Las calderas se pueden clasificar de muchas formas:
               p.text-small Según el material del que están hechas, la disposición de los fluidos, el combustible usado, la presión de operación, entre otros criterios. La clasificación más común es según la disposición de los fluidos, y se dividen en pirotubulares y acuotubulares.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=QJRaP0BDt7I." target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=QJRaP0BDt7I" target="_blank")
                 span Abrir
                 i.fas.fa-link
 

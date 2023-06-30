@@ -242,6 +242,68 @@
     #t_3_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.3 Bomba de calor
 
+    .row 
+      .col-md-6.col-12(data-aos="fade-down")
+        .titulo-sexto.color-acento-botones.mb-0
+          p.titulo.pb-0.mb-0 <b>Figura 13. </b> <i>Partes de una bomba de calor</i>
+        figure.mt-3
+          img(src='@/assets/curso/temas/tema3/tema3-25.png' alt='Partes de una bomba de calor')
+          figcaption.mt-3 Nota. Algunas partes distintas a la válvula de cuatro vías pueden no estar en todas las bombas de calor. Tomada de Wikipedia Commons (s. f.).
+      .col-md-6.col-12(data-aos="fade-down")
+        .cajon.color-primario.p-4.mb-4
+          p Las bombas de calor son máquinas térmicas que transportan energía en forma de calor de un espacio a otro. Funcionan bajo los mismos principios y con los mismos componentes fundamentales que el aire acondicionado. La diferencia con estos últimos radica en que las bombas de calor están diseñadas para producir calor en un recinto en vez de frío, por lo que se utilizan para calefacción y calentamiento de agua. La inversión del funcionamiento se logra haciendo uso de un componente llamado válvula de inversión, también conocida como válvula de cuatro vías. 
+          p Las bombas de calor también aprovechan los cambios de estado de un refrigerante y son equipos muy utilizado en zonas en las que hay cambios estacionales de clima, sirviendo en invierno o verano. Los componentes de la bomba de calor son: compresor, condensador, válvula de expansión, evaporador. 
+
+
+    Separador
+    #t_3_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 3.4 Medidas para mejorar y mantener la eficiencia
+
+    .row.justify-content-center.align-items-center.mt-5.mb-5
+      .col-md-8.col-12.p-4(data-aos="fade-right")
+        .cajon-b.color-acento-botones.p-3
+          p.mb-0 Para mejorar la eficiencia térmica en la climatización de un espacio es importante seleccionar el sistema de climatización de acuerdo con el tipo de clima, de forma que si el área a climatizar es un ambiente cálido húmedo se seleccione un equipo que deshumidifique el aire para bajar la sensación térmica de temperatura y de esa forma evitar tener que usar mucha potencia en la climatización. Mientras que, si se trata de un clima cálido seco, humidificar el aire permite disminuir un poco la temperatura, cuidando de no llegar al extremo de aumentar mucho la humedad. Algunas de las acciones para incrementar la eficiencia energética de los sistemas de climatización incluyen:
+        .cajon.color-acento-contenido.p-4.mb-4
+          ul.lista-ul
+            li(data-aos="fade-down")
+              i.fas.fa-atom(style="color: #0F58B9")
+              | Distribuir los equipos por zonas para atender las demandas de frío particulares.
+            li(data-aos="fade-down")
+              i.fas.fa-atom(style="color: #0F58B9")
+              |	Utilizar aislamientos térmicos adecuados.
+            li(data-aos="fade-down")
+              i.fas.fa-atom(style="color: #0F58B9")
+              | Elegir adecuadamente las temperaturas de evaporación y condensación.
+            li(data-aos="fade-down")
+              i.fas.fa-atom(style="color: #0F58B9")
+              | Utilizar motores de frecuencia variable en los sistemas de distribución de fluidos.
+            li(data-aos="fade-down")
+              i.fas.fa-atom(style="color: #0F58B9")
+              | Incorporar infraestructura de cogeneración.
+            li(data-aos="fade-down")
+              i.fas.fa-atom(style="color: #0F58B9")
+              |	Reutilizar la energía térmica contenida en los condensados de los equipos de enfriamiento o el calor de los humos que salen de las calderas.
+      .col-md-4.col-12(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema3/tema3-26.svg', alt='Medidas para mejorar y mantener la eficiencia')  
+
+
+    p(data-aos="fade-right") Por otro lado, los aires acondicionados y las bombas de calor cuentan con intercambiadores de calor a los que se debe hacer mantenimientos periódicos para mantener una buena tasa de transferencia de calor, ya que cuando estos componentes se ensucian se hace más difícil el intercambio de calor y aumenta el nivel de energía consumida. 
+
+
+    .tarjeta.color-secundario.p-3.mb-5.mt-5(data-aos="fade-down")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/link.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h4.mb-1 6 TRUCOS PARA AHORRAR EN EL AIRE ACONDICIONADO
+              p.text-small Para conocer más acerca de cómo usar de manera eficiente el aire acondicionado, se invita a visitar el siguiente enlace.
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-blanco(href="https://www.sostenibilidad.com/vida-sostenible/trucos-ahorrar-aire-acondicionado/?_adin=02021864894" target="_blank")
+                span Abrir
+                i.fas.fa-link
 
 </template>
 

@@ -116,7 +116,7 @@
     .tarjeta.color-secundario.p-3.mb-5.mt-5(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/tema1-15.svg")
+          img(src="@/assets/curso/temas/link.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
