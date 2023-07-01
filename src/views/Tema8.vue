@@ -159,8 +159,97 @@
             figure
               img(src='@/assets/curso/temas/tema8/tema8-10.png', alt='')
 
+    .row.justify-content-center.align-items-center.mt-4
+      .col-md-12.col-12.p-4(style="background-color: #CEDDF0")
+        .row.justify-content-center.align-items-center
+          .col-12.col-md-6
+            .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
+              p.titulo.pb-0.mb-0 <b>Figura 34. </b> <i>Tubería flexible preaislada</i>
+            figure.mt-2(data-aos="fade-down")
+              img(src='@/assets/curso/temas/tema8/tema8-11.png', alt='Tubería flexible preaislada', @click="hacerVisible(11)")
+              figcaption Nota. PE-HD es polietileno de alta densidad, PE-X es espuma polietileno reticulado, y el Eval PEX es polietileno reticulado en forma de tubo. Tomada de Ortega (s. f.).
+          .col-12.col-md-6
+            .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
+              p.titulo.pb-0.mb-0 <b>Figura 35. </b> <i>Representación de dirección de tuberías en un Distrito térmico</i>
+            figure.mt-2(data-aos="fade-down")
+              img(src='@/assets/curso/temas/tema8/tema8-12.png', alt='Representación de dirección de tuberías en un Distrito térmico', @click="hacerVisible(12)")
+              figcaption Nota. La línea roja indica el agua que sale de la central del distrito térmico y la azul es el agua que retorna a la central. En algunos casos el distrito provee agua fría, en otros, agua caliente, e incluso hay los que distribuyen calor y frío al tiempo. Nota. Tomada de Red Española de Ciudades por el Clima (s. f.).
+
+    p.mt-5(data-aos="fade-right") La tubería de un distrito térmico puede ser de tres tipos:
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-md-10.col-12
+        ul.lista-ul
+          li(data-aos="fade-down")
+            i.fas.fa-atom(style="color: #0F58B9")
+            | #[strong Red troncal:] es la tubería principal, transporta el fluido que contiene la energía térmica (calor o frío) desde las centrales de generación hasta las redes de distribución secundarias o locales. Conduce altos caudales y presiones y suele ser de tubos de diámetros grandes, metálicos y preaislados. 
+          li(data-aos="fade-down")
+            i.fas.fa-atom(style="color: #0F58B9")
+            | #[strong Ramales:] llevan el calor o el frío desde la red troncal hasta el edificio o cliente. También pueden conducir el calor o el frío desde una central de generación de menor tamaño.
+          li(data-aos="fade-down")
+            i.fas.fa-atom(style="color: #0F58B9")
+            | #[strong Acometidas:] son ramales de servicio al consumidor y conectan a los ramales con la subestación de cada edificio o cliente. Para diámetros pequeños suele emplearse tubería de plástico y preaislada.
+      
+      .col-md-10.col-12.mt-2
+        p(data-aos="fade-right") #[i Sistemas de bombeo]
+        p(data-aos="fade-right") Se utilizan para regular el flujo que transita por las tuberías. Pueden ser:
+
+      .col-md-10.col-12
+        ul.lista-ul
+          li(data-aos="fade-down")
+            i.fas.fa-atom(style="color: #0F58B9")
+            | #[strong Bombeo centralizado:] el fluido es impulsado por toda la red: planta de generación y tuberías (principales y de distribución).
+          li(data-aos="fade-down")
+            i.fas.fa-atom(style="color: #0F58B9")
+            | #[strong Bombeo distribuido a cada subestación:] existe un sistema de bombeo para cada central generadora y cada edificio consumidor. Es comúnmente utilizado en las redes de gran extensión.
+          li(data-aos="fade-down")
+            i.fas.fa-atom(style="color: #0F58B9")
+            | #[strong Bombeo híbrido:] combinación de los anteriores. 
+
+      .col-md-10.col-12.mt-2
+        p(data-aos="fade-right") #[i Subestaciones]
+
+      .col-md-10.col-12(data-aos="fade-right") 
+        p La subestación es la infraestructura de transferencia entre la red de distribución de energía térmica y los edificios o viviendas (clientes). Se encarga de regular y controlar la temperatura y la presión de la red a las condiciones que requiere el cliente, y en ella se mide, además, el consumo de energía. Comúnmente la conforman un conjunto de intercambiadores de calor y los dispositivos de regulación y control. 
+        p Además, las subestaciones pueden ser directas o indirectas. En las subestaciones directas, usadas principalmente en redes de baja temperatura, la conexión de la red general y la red del usuario son la misma. Las subestaciones indirectas usan un intercambiador de calor, estando separados el circuito de la red de distribución y el circuito interior del usuario.
 
 
+    Separador
+    #t_8_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 8.2 Tipos de redes de distribución de los distritos térmicos
+
+    p(data-aos="fade-right") Las redes de distribución de los distritos térmicos pueden clasificarse según el trazado, según los circuitos y según el sector al que abastecen. Se describe a continuación el primero; y los trazados de las redes pueden ser tipo árbol, malla o anillo.
+
+    .tarjeta.tarjeta--gris.p-4.mb-5.mt-5(data-aos="fade-down")
+      LineaTiempoC.color-acento-contenido(text-small)
+        .row.justify-content-center.align-items-center(titulo="Tipo 1")
+          .col-md-10.col-12.mb-4.mb-md-0
+            p #[strong Tipo 1. Red tipo árbol o ramificado:] cada edificio está conectado directamente a una única central térmica, mediante una tubería de suministro y retorno.
+        .row.justify-content-center.align-items-center(titulo="Tipo 2")
+          .col-md-10.col-12.mb-4.mb-md-0
+            p #[strong Tipo 2. Red tipo malla:] los edificios se conectan por múltiples puntos a una central térmica. En caso de cercanía a otras centrales térmicas o de avería, se puede conectar también a una o más de una. 
+        .row.justify-content-center.align-items-center(titulo="Tipo 3")
+          .col-md-10.col-12.mb-4.mb-md-0
+            p #[strong Tipo 3. Red tipo anillo:] es una combinación entre los trazados árbol y malla. El punto final se interconecta con el punto inicial, generando un lazo cerrado.
+        
+        
+    Separador
+    #t_8_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 8.3 Fuentes energéticas
+
+    .cajon-b.color-acento-contenido.p-3.mb-5(data-aos="fade-down")
+      p.mb-0 Los distritos térmicos pueden utilizar diversas fuentes de energía. A escala mundial, existen distritos térmicos que utilizan fuentes renovables y no renovables, y además aguas profundas del mar. Dentro de las fuentes convencionales predomina el gas natural; también figura la electricidad para la refrigeración por compresión. 
+        br
+        br
+        | Entre las fuentes de energía renovables se distinguen la solar (térmica y/o fotovoltaica) y la biomasa (de origen forestal, industrial, agropecuario, urbano, biogás, etc.). Una forma eficiente de generación de energía para el sistema es el uso de ciclos de cogeneración. En algunos casos es posible usar energía térmica “gratuita” contenida en fuentes geotérmicas para extraer calor de la tierra.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-md-6
+          .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
+            p.titulo.pb-0.mb-0 <b>Figura 36. </b> <i>Posibles fuentes de energía para los distritos térmicos</i>
+          figure.mt-2(data-aos="fade-down")
+            img(src='@/assets/curso/temas/tema8/tema8-13.png', alt='Posibles fuentes de energía para los distritos térmicos', @click="hacerVisible(13)")
+            figcaption Nota. Tomada del Distrito energético s.f. 
 
     ModalA(:abrir-modal.sync="modal1")
       .row.justify-content-center.align-items-center
@@ -192,6 +281,12 @@ export default {
         this.img_show = require('@/assets/curso/temas/tema8/tema8-03.png')
       else if (item == 4)
         this.img_show = require('@/assets/curso/temas/tema8/tema8-04.png')
+      else if (item == 11)
+        this.img_show = require('@/assets/curso/temas/tema8/tema8-11.png')
+      else if (item == 12)
+        this.img_show = require('@/assets/curso/temas/tema8/tema8-12.png')
+      else if (item == 13)
+        this.img_show = require('@/assets/curso/temas/tema8/tema8-13.png')
       this.modal1 = true
     },
   },
