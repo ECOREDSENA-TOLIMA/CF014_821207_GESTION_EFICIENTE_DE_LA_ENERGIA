@@ -92,7 +92,7 @@
               p.titulo.pb-0.mb-0 <b>Figura 32. </b> <i>Distrito térmico La Alpujarra</i>
           .col-md-9.col-lg-7.col-12 
             figure(data-aos="fade-down")
-              img(src='@/assets/curso/temas/tema8/tema8-05.jpg', alt='')
+              img(src='@/assets/curso/temas/tema8/tema8-05.png', alt='')
               figcaption Nota. Tomada IUC, s.f. 
         
     p(data-aos="fade-right") Los principales retos que enfrenta el uso de los distritos térmicos en las ciudades se relacionan con las inversiones en la infraestructura requerida (acondicionamiento de las edificaciones para recibir la red de frío o calor, construcción de redes de distribución, etc.), la tecnología (falta de mediciones) y de los esquemas de financiación de proyectos de este tipo. Además, en el ámbito regulatorio aún falta consolidar la normativa de eficiencia energética que impulse el amplio desarrollo de distritos térmicos.
@@ -191,7 +191,7 @@
             | #[strong Acometidas:] son ramales de servicio al consumidor y conectan a los ramales con la subestación de cada edificio o cliente. Para diámetros pequeños suele emplearse tubería de plástico y preaislada.
       
       .col-md-10.col-12.mt-2
-        p(data-aos="fade-right") #[i Sistemas de bombeo]
+        h4(data-aos="fade-right") #[i Sistemas de bombeo]
         p(data-aos="fade-right") Se utilizan para regular el flujo que transita por las tuberías. Pueden ser:
 
       .col-md-10.col-12
@@ -207,7 +207,7 @@
             | #[strong Bombeo híbrido:] combinación de los anteriores. 
 
       .col-md-10.col-12.mt-2
-        p(data-aos="fade-right") #[i Subestaciones]
+        h4(data-aos="fade-right") #[i Subestaciones]
 
       .col-md-10.col-12(data-aos="fade-right") 
         p La subestación es la infraestructura de transferencia entre la red de distribución de energía térmica y los edificios o viviendas (clientes). Se encarga de regular y controlar la temperatura y la presión de la red a las condiciones que requiere el cliente, y en ella se mide, además, el consumo de energía. Comúnmente la conforman un conjunto de intercambiadores de calor y los dispositivos de regulación y control. 

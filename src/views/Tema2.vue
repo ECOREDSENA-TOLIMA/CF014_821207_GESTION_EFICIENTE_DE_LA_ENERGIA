@@ -141,7 +141,7 @@
     
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-md-12.col-12(data-aos="fade-right")
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-acento-botones.p-4.mb-4
           p En las calderas acuotubulares, a diferencia de las pirotubulares, el agua circula por el interior de los tubos, formando un circuito de tubos rodeados por los gases de la cámara de combustión. Este tipo de calderas permite trabajar a presiones más altas que las pirotubulares, aunque con caudales de agua menores, y son muy utilizadas en plantas termoeléctricas, con altos requerimientos de vapor.
       
       .col-md-6.col-12(data-aos="fade-down")
@@ -158,7 +158,7 @@
 
     p.mt-5.mb-5(data-aos="fade-right") Con el siguiente recurso, se podrán conocer las ecuaciones para comprobar la eficiencia de una caldera.
     
-    .tarjeta.tarjeta--gris.p-3
+    .tarjeta.tarjeta--gris.p-3.mb-5
       SlyderE(indicadores="derecha")(data-aos="fade-down")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0

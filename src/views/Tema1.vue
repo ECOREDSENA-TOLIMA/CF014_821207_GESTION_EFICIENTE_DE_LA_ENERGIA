@@ -132,10 +132,43 @@
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.2 Medidas para mejorar y mantener la eficiencia
 
-    p(data-aos="fade-left") En el siguiente recurso podrás explorar todo lo relacionado con las medidas para mejorar y mantener la eficiencia.
+    p.mb-5(data-aos="fade-left") En el siguiente recurso podrás explorar todo lo relacionado con las medidas para mejorar y mantener la eficiencia.
 
-    h1 PENDIENTE DISEÑO DE SLIDER (VIDEO = SLIDER)
-
+    .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="flip-right")
+      SlyderA(tipo="b")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Para obtener una eficiencia térmica óptima en los intercambiadores de calor, se debe seleccionar el intercambiador que mejor se ajuste a las condiciones de operación. Los distintos tipos de intercambiadores se diseñaron para adaptarlos a las distintas condiciones de trabajo.  
+            p Por ejemplo, los intercambiadores de placas están pensados para intercambiar calor entre fluidos líquidos mientras que un intercambiador compacto es más apropiado cuando se requiere intercambiar calor entre un líquido y un gas (como el aire). 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-16.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Por su parte, los intercambiadores de tubo y coraza son ideales para aplicaciones en las que se trabaja con grandes cantidades de fluido y los intercambiadores de doble tubo son más sencillos para aplicaciones que no requiere flujos muy grandes. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-17.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Un factor que afecta el desempeño de los intercambiadores de calor es la suciedad que se acumula en su interior debido a las partículas contaminantes o corrosión, que dificultan la transferencia de calor.  
+            p Para mantener la eficiencia de un equipo, es necesario efectuar mantenimientos periódicos en los que se revise y elimine la acumulación de suciedad, de esta forma se evita que haya una pérdida significativa de la eficacia del intercambiador. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-18.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Ya que en muchos casos uno o ambos fluidos de trabajo en el intercambiador de calor son agua, se puede minimizar la acumulación de suciedad tratando el agua de entrada para reducir el material particulado y las sales, que pueden adherirse gradualmente a las paredes de los ductos.  
+            p Otros factores importantes para mejorar la transferencia de calor son el material y el espesor de los tubos o placas a través de las cuales se conduce el calor. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-19.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Se debe escoger un material que conduzca muy bien el calor, como el cobre y cuando sea posible, el espesor del material de los tubos o placas. Los intercambiadores de placas son los más adaptables, ya que se pueden redimensionar añadiendo, quitando o cambiando placas, por otras más delgadas o de mejores materiales, por lo que es recomendable que se seleccionen cuando la aplicación lo permita (cuando el intercambio de calor es entre fluidos líquidos). 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-20.png', alt='')
       
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center

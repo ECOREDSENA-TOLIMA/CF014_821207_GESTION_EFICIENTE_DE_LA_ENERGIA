@@ -16,9 +16,47 @@
     #t_7_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 7.1 Aplicaciones industriales
 
-    p(data-aos="fade-right") A partir del siguiente recurso usted podrá descubrir cómo automatizar y digitalizar procesos relacionados con la eficiencia energética en la industria.
+    p.mb-5(data-aos="fade-right") A partir del siguiente recurso usted podrá descubrir cómo automatizar y digitalizar procesos relacionados con la eficiencia energética en la industria.
 
-    .h1 PENDIENTE VIDEO = SLIDER 
+    
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+      .row(titulo="Automatización")
+        .col-md-7.mb-4.mb-md-0
+          p La automatización es el uso de tecnologías de control diseñadas y programadas para manejar de forma automática la operación de dispositivos eléctricos o mecánicos.  
+          p La digitalización consiste en el registro de datos en medios digitales. Y la automatización y la digitalización permiten el control y monitoreo de procesos para mejorar la eficiencia energética en aplicaciones industriales, comerciales y residenciales. 
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/tema7/tema7-06.png', alt='')
+      .row(titulo="Popularización")
+        .col-md-7.mb-4.mb-md-0
+          p La popularización de conceptos como internet de las cosas (IoT), ha impulsado el desarrollo de muchas aplicaciones de control automático con innumerables posibilidades para la optimización de procesos y la reducción del consumo de energía mediante el monitoreo y manipulación de variables de operación en los equipos. 
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/tema7/tema7-07.png', alt='')
+      .row(titulo="Automatización de procesos")
+        .col-md-7.mb-4.mb-md-0
+          p La automatización de procesos y digitalización de datos de operación permiten implementar algoritmos para la detección de anomalías en las operaciones e incluso predecir tendencias, como picos o caídas de demanda, por ejemplo, energía o materias primas para la producción. Estos datos pueden servir al sistema de control para actuar automáticamente en respuesta a las anomalías o cambios para operar de forma eficaz y eficiente. 
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/tema7/tema7-08.png', alt='')
+      .row(titulo="Aplicaciones industriales")
+        .col-md-7.mb-4.mb-md-0
+          p Aplicaciones industriales: en casi todas las industrias, especialmente las manufactureras, se emplean equipos que consumen grandes cantidades de energía, como calderas, motores, hornos, reactores químicos, compresores, sistemas de climatización, producción de calor o frío para procesos de producción; estos equipos tienen periodos de actividad variable, según el nivel de operación. 
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/tema7/tema7-09.png', alt='')
+      .row(titulo="Variables de operación")
+        .col-md-7.mb-4.mb-md-0
+          p Las variables de operación pueden ser medidas y controladas, por ejemplo un proceso de combustión usado en hornos, calderas y reactores, tiene niveles óptimos de relación aire/combustible que varían según la operación o necesidades de producción; un sistema automatizado de control puede variar los niveles de aire o combustible de forma que sean óptimos y como resultado el consumo de combustible mermaría. 
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/tema7/tema7-10.png', alt='')
+      .row(titulo="Aplicaciones industriales")
+        .col-md-7.mb-4.mb-md-0
+          p En otras aplicaciones industriales que consumen energía, la automatización y digitalización permite gestionar más eficientemente el consumo, teniendo en cuenta la demanda en las distintas áreas y equipos. El análisis de datos digitalizados da una oportunidad para evaluar el desempeño de los procesos y equipos industriales para desarrollar mecanismos de mejora que permitan optimizar los recursos y minimizar el impacto ambiental. 
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/tema7/tema7-11.png', alt='')
 
 
     Separador
@@ -97,7 +135,7 @@
               p.titulo.pb-0.mb-0 <b>Figura 28. </b> <i>Componentes de un sistema de control de edificios</i>
           .col-md-10.col-12(data-aos="fade-right") 
             figure(data-aos="fade-down")
-              img(src='@/assets/curso/temas/tema7/tema7-05.png', alt='')
+              img(src='@/assets/curso/temas/tema7/tema7-05.svg', alt='')
               figcaption Nota. Tomada de Ikastaroak (2020). 
 
     Separador
