@@ -45,7 +45,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             p Mediante un intercambiador de calor (evaporador), se absorbe el calor del refrigerante que se evapora (se convierte en gas), el cual es luego eliminado mediante otro intercambiador de calor (condensador) a medida que el refrigerante vuelve a estado líquido, es decir se condensa. El refrigerante utilizado en un sistema de refrigeración se evapora a temperaturas que por lo general oscilan entre -10 °C y -45 °C, estando a baja presión. 
-            p Este parámetro se controla con el fin de que el fluido se evapore a una temperatura menor que la del objeto o producto que se desea enfriar. El objeto se enfría por acción indirecta del aire enfriado. En el evaporador, el refrigerante se encuentra a baja temperatura, enfriando el espacio dentro del refrigerador, absorbiendo el calor de los productos contenidos en él. Luego, el vapor refrigerante se comprime, incrementando su presión y temperatura (mayor que la temperatura del aire ambiente o el fluido que retira el calor del refrigerante). Posteriormente se convierte en líquido al ceder calor y reducir su temperatura, calentando el aire ambiente o agua. Finalmente, se dirige de nuevo a la válvula de expansión, repitiendo el ciclo.
+            p Este parámetro se controla con el fin de que el fluido se evapore a una temperatura menor que la del objeto o producto que se desea enfriar. El objeto se enfría por acción indirecta del aire enfriado. En el evaporador, el refrigerante se encuentra a baja temperatura, enfriando el espacio dentro del refrigerador, absorbiendo el calor de los productos contenidos en él. Luego, el vapor refrigerante se comprime, incrementando su presión y temperatura (mayor que la temperatura del aire ambiente o el fluido que retira el calor del refrigerante). Posteriormente, se convierte en líquido al ceder calor y reducir su temperatura, calentando el aire ambiente o agua. Finalmente, se dirige de nuevo a la válvula de expansión, repitiendo el ciclo.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/tema4-06.png', alt='')
@@ -108,7 +108,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-md-11.col-lg-10.mb-4.mb-md-0
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 15. </b> <i>Refrigerantes comúnmente utilizados en equipos de aire acondicionado, refrigeración y bombas de calor</i>
+          p.titulo.pb-0.mb-0 <b>Tabla 3. </b> <i>Refrigerantes comúnmente utilizados en equipos de aire acondicionado, refrigeración y bombas de calor</i>
         figure.mt-2(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema4/tema4-13.svg', alt='Refrigerantes comúnmente utilizados en equipos de aire acondicionado')
           figcaption Nota. Tomada de https://www.caloryfrio.com/refrigeracion-frio/los-gases-refrigerantes.html 
@@ -173,7 +173,7 @@
                 | Es importante que el aislamiento térmico de los equipos esté en buen estado, ya que esto mantiene los niveles de consumo bajos.
               li(data-aos="fade-down")
                 i.fas.fa-atom(style="color: #0F58B9")
-                | En los sistemas de refrigeración industrial en los que se requiere simultáneamente frío para unos procesos y calor para otros, se puede recuperar calor de los condensadores. De esta manera, se mejora la operación del frigorífico, ya que la temperatura de salida del compresor será más baja.
+                | En los sistemas de refrigeración industrial, en los que se requiere simultáneamente frío para unos procesos y calor para otros, se puede recuperar calor de los condensadores. De esta manera, se mejora la operación del frigorífico, ya que la temperatura de salida del compresor será más baja.
           .col-md-6
             figure(style="padding-left:5rem; padding-right:5rem;")
               img(src='@/assets/curso/temas/tema4/tema4-17.png', alt='')
@@ -183,7 +183,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/tema4-18.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            p Para reducir el impacto ambiental debido al consumo de energía de los refrigeradores y al impacto de los refrigerantes en la capa de ozono se pueden tomar medidas como seleccionar equipos que usen refrigerantes que no dañen la capa de ozono, como el R-141b, R-134a o CO2, revisar periódicamente los equipos para determinar el nivel de refrigerante y, en los casos en los que el condensador sea un intercambiador compacto, limpiar periódicamente las aletas y espacios que puedan estar obstruidos por el polvo para mantener una buena transferencia de calor con el ambiente. 
+            p Para reducir el impacto ambiental debido al consumo de energía de los refrigeradores y al impacto de los refrigerantes en la capa de ozono, se pueden tomar medidas como seleccionar equipos que usen refrigerantes que no dañen la capa de ozono, como el R-141b, R-134a o CO2, revisar periódicamente los equipos para determinar el nivel de refrigerante y, en los casos en los que el condensador sea un intercambiador compacto, limpiar periódicamente las aletas y espacios que puedan estar obstruidos por el polvo para mantener una buena transferencia de calor con el ambiente. 
 
         .row.justify-content-center.align-items-center
           .col-md-6

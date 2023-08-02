@@ -37,7 +37,7 @@
         .row.justify-content-center.align-items-center
           .col-md-10.col-lg-9.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 29. </b> <i>Distrito térmico</i>
+              p.titulo.pb-0.mb-0 <b>Figura 28. </b> <i>Distrito térmico</i>
           .col-md-10.col-lg-9.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema8/tema8-02.png', alt='')
@@ -47,13 +47,13 @@
         .row.justify-content-center.align-items-center
           .col-12.col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 30. </b> <i>Representación de redes de frío</i>
+              p.titulo.pb-0.mb-0 <b>Figura 29. </b> <i>Representación de redes de frío</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema8/tema8-03.png', alt='', @click="hacerVisible(3)")
               figcaption Nota. Tomada de Engie (s. f.). 
           .col-12.col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 31. </b> <i>Representación de redes de calor</i>
+              p.titulo.pb-0.mb-0 <b>Figura 30. </b> <i>Representación de redes de calor</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema8/tema8-04.png', alt='', @click="hacerVisible(4)")
               figcaption Nota. Tomada de Engie (s. f.). 
@@ -77,8 +77,9 @@
       p.mb-0 En Colombia, la implementación de distritos térmicos hace parte de unas de las medidas de eficiencia energética del PAI Proure 2017-2022, por consiguiente, el interés por desarrollarlos ha venido aumentando. Existe un potencial importante en el país para utilizar distritos térmicos en la generación de agua fría para reemplazar los aires acondicionados convencionales, especialmente en hospitales, hoteles, centros educativos y edificios administrativos o gubernamentales. 
 
     .cajon.color-acento-botones.p-4.mb-4.mt-0(data-aos="zoom-in-down")
-      p La primera planta piloto instalada en el país se encuentra en el Centro Administrativo la Alpujarra en Medellín, provee solamente enfriamiento y es alimentada por gas natural y energía eléctrica. El sistema envía agua fría a 5 °C y la recibe a 12 °C, luego de haber climatizado los edificios del distrito (Enersinc, 2017). Con la integración del proyecto se redujeron en un 30% las emisiones de GEI de los edificios del distrito y se eliminaron en ellos el 100% de los refrigerantes, nocivos para la capa de ozono. En la siguiente figura, se puede ver el esquema del proyecto piloto de Distrito Térmico la Alpujarra. Se puede conocer más acerca de este proyecto piloto en 
-        <a href="https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica" target="_blank">https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica.</a>
+      p La primera planta piloto instalada en el país se encuentra en el Centro Administrativo la Alpujarra en Medellín, provee solamente enfriamiento y es alimentada por gas natural y energía eléctrica. El sistema envía agua fría a 5 °C y la recibe a 12 °C, luego de haber climatizado los edificios del distrito (Enersinc, 2017). Con la integración del proyecto se redujeron en un 30% las emisiones de GEI de los edificios del distrito y se eliminaron en ellos el 100% de los refrigerantes, nocivos para la capa de ozono. En la siguiente figura, se puede ver el esquema del proyecto piloto de Distrito Térmico la Alpujarra. 
+      //- Se puede conocer más acerca de este proyecto piloto en 
+      //-  <a href="https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica" target="_blank">https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica.</a>
 
 
     .row.justify-content-center.align-items-center.mt-0.mb-5
@@ -89,7 +90,7 @@
               <a target="_blank" href="https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica">https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica.</a> 
           .col-md-9.col-lg-7.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 32. </b> <i>Distrito térmico La Alpujarra</i>
+              p.titulo.pb-0.mb-0 <b>Figura 31. </b> <i>Distrito térmico La Alpujarra</i>
           .col-md-9.col-lg-7.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema8/tema8-05.png', alt='')
@@ -110,7 +111,7 @@
             p Los componentes característicos de un distrito térmico son la central de generación, la red de distribución compuesta por la tubería (aislada) y el sistema de bombeo y la subestación.
           .col-md-8
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 33. </b> <i>Componentes de un distrito térmico</i>
+              p.titulo.pb-0.mb-0 <b>Figura 32. </b> <i>Componentes de un distrito térmico</i>
             figure.mt-2
               img(src='@/assets/curso/temas/tema8/tema8-06.png', alt='')
               figcaption Nota. Tomada de https://www.distritoenergetico.com/materializacion-del-distrito-termico-componentes/
@@ -164,13 +165,13 @@
         .row.justify-content-center.align-items-center
           .col-12.col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 34. </b> <i>Tubería flexible preaislada</i>
+              p.titulo.pb-0.mb-0 <b>Figura 33. </b> <i>Tubería flexible preaislada</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema8/tema8-11.png', alt='Tubería flexible preaislada', @click="hacerVisible(11)")
               figcaption Nota. PE-HD es polietileno de alta densidad, PE-X es espuma polietileno reticulado, y el Eval PEX es polietileno reticulado en forma de tubo. Tomada de Ortega (s. f.).
           .col-12.col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 35. </b> <i>Representación de dirección de tuberías en un Distrito térmico</i>
+              p.titulo.pb-0.mb-0 <b>Figura 34. </b> <i>Representación de dirección de tuberías en un Distrito térmico</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema8/tema8-12.png', alt='Representación de dirección de tuberías en un Distrito térmico', @click="hacerVisible(12)")
               figcaption Nota. La línea roja indica el agua que sale de la central del distrito térmico y la azul es el agua que retorna a la central. En algunos casos el distrito provee agua fría, en otros, agua caliente, e incluso hay los que distribuyen calor y frío al tiempo. Nota. Tomada de Red Española de Ciudades por el Clima (s. f.).
@@ -246,7 +247,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-6
           .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-            p.titulo.pb-0.mb-0 <b>Figura 36. </b> <i>Posibles fuentes de energía para los distritos térmicos</i>
+            p.titulo.pb-0.mb-0 <b>Figura 35. </b> <i>Posibles fuentes de energía para los distritos térmicos</i>
           figure.mt-2(data-aos="fade-down")
             img(src='@/assets/curso/temas/tema8/tema8-13.png', alt='Posibles fuentes de energía para los distritos térmicos', @click="hacerVisible(13)")
             figcaption Nota. Tomada del Distrito energético s.f. 

@@ -13,7 +13,7 @@
       SlyderE(indicadores="derecha")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La cogeneración o CHP #[i (Combined Heat and Power)], es la generación conjunta de dos formas de energía. Usualmente se genera energía eléctrica y otra forma aprovechable de energía, ya sea energía térmica (calor residual en forma de vapor, agua caliente, gases calientes, frío) o mecánica, a partir de una sola fuente de energía primaria utilizada como combustible. 
+            p La cogeneración o CHP #[i (Combined Heat and Power)], es la generación conjunta de dos formas de energía. Usualmente, se genera energía eléctrica y otra forma aprovechable de energía, ya sea energía térmica (calor residual en forma de vapor, agua caliente, gases calientes, frío) o mecánica, a partir de una sola fuente de energía primaria utilizada como combustible. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema5/tema5-01.png', alt='')
@@ -40,7 +40,7 @@
             p La reducción de las pérdidas de energía con el uso de sistemas de cogeneración disminuye la cantidad de combustible requerido para los procesos y, por consiguiente, disminuye costos de operación, al tiempo que se minimiza el impacto ambiental al emitir menos cantidad de gases de efecto invernadero a la atmósfera.
           .col-md-7
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 16. </b> <i>Infografía de qué es la cogeneración</i>
+              p.titulo.pb-0.mb-0 <b>Figura 15. </b> <i>Infografía de qué es la cogeneración</i>
             .row.justify-content-center.align-items-center
               .col-md-6.col-12
                 figure
@@ -87,7 +87,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4  
       .col-md-8.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 17. </b> <i>Representación esquemática de la cogeneración tipo cabeza o topping</i>
+          p.titulo.pb-0.mb-0 <b>Figura 16. </b> <i>Representación esquemática de la cogeneración tipo cabeza o topping</i>
         figure.mt-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema5/tema5-08.png', alt='', @click="hacerVisible(8)")
           figcaption Nota. Tomada de Banco de Desarrollo de América Latina (CAF). (s. f.). 
@@ -102,7 +102,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4  
       .col-md-8.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 18. </b> <i>Representación esquemática de la cogeneración tipo cola o bottoming</i>
+          p.titulo.pb-0.mb-0 <b>Figura 17. </b> <i>Representación esquemática de la cogeneración tipo cola o bottoming</i>
         figure.mt-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema5/tema5-09.png', alt='', @click="hacerVisible(9)")
           figcaption Nota. Tomada de Banco de Desarrollo de América Latina (CAF). (s. f.).
@@ -118,7 +118,7 @@
         p Los gases también se pueden reutilizar para producir frío en un #[i chiller] de adsorción. Es una de las configuraciones más utilizadas en plantas medianas con equipos consumidores de vapor. Dentro de los fabricantes de turbinas a gas en el mundo se encuentran #[i Siemens, Rolls Royce, Kawasaki, Pratt & Whitney], entre otros.
       .col-md-6.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 19. </b> <i>Ciclo con turbina de gas</i>
+          p.titulo.pb-0.mb-0 <b>Figura 18. </b> <i>Ciclo con turbina de gas</i>
         figure.mt-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema5/tema5-10.png', alt='', @click="hacerVisible(10)")
           figcaption Nota. En este caso se genera energía eléctrica y vapor de agua. Tomada de Naturgy (s. f.). 
@@ -150,14 +150,14 @@
             p Dentro de los principales fabricantes de turbinas de vapor se encuentran General Electric, Siemens, Toshiba, entre otros. 
           .col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 20. </b> <i>Ciclo con turbina de vapor</i>
+              p.titulo.pb-0.mb-0 <b>Figura 19. </b> <i>Ciclo con turbina de vapor</i>
             figure.mt-2
               img(src='@/assets/curso/temas/tema5/tema5-13.png', alt='Dentro de los principales fabricantes de turbinas de vapor se encuentran General Electric, Siemens, Toshiba, entre otros.',  @click="hacerVisible(13)")
               figcaption Nota. Este ciclo genera energía eléctrica con turbina de gas y turbina de vapor alimentada por vapor calentado por los gases de escape de la turbina. 
         .row.justify-content-center.align-items-center
           .col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 21. </b> <i>Ciclo con turbina de vapor</i>
+              p.titulo.pb-0.mb-0 <b>Figura 20. </b> <i>Ciclo con turbina de vapor</i>
             figure.mt-2
               img(src='@/assets/curso/temas/tema5/tema5-14.png', alt='Ciclo con turbina de vapor.',  @click="hacerVisible(14)")
               figcaption Nota. Tomada de https://grebus.wordpress.com/tag/cogeneracion/
@@ -167,12 +167,12 @@
     #t_5_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 5.5 Cogeneración con motor de combustión interna
 
-    p(data-aos="fade-right") En esta configuración, se utiliza un motor de combustión interna como elemento primario. Estos motores utilizan gas o #[i fueloil] como combustible Los gases de escape a alta temperatura pasan por una caldera de recuperación, en la que se produce vapor que se aprovecha en una turbina de vapor para generar energía eléctrica o energía mecánica. También es posible obtener calor a partir del circuito de refrigeración del motor, en el que se calienta el agua y se reutiliza bien sea en otro proceso o para alimentar la caldera de vapor.
+    p(data-aos="fade-right") En esta configuración, se utiliza un motor de combustión interna como elemento primario. Estos motores utilizan gas o #[i fueloil] como combustible. Los gases de escape a alta temperatura pasan por una caldera de recuperación, en la que se produce vapor que se aprovecha en una turbina de vapor para generar energía eléctrica o energía mecánica. También es posible obtener calor a partir del circuito de refrigeración del motor, en el que se calienta el agua y se reutiliza, bien sea en otro proceso o para alimentar la caldera de vapor.
 
     .row.justify-content-center.align-items-center.mt-5.mb-4  
       .col-md-8.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 22. </b> <i>Ciclo con motor alternativo o de combustión interna</i>
+          p.titulo.pb-0.mb-0 <b>Figura 21. </b> <i>Ciclo con motor alternativo o de combustión interna</i>
         figure.mt-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema5/tema5-15.png', alt='', @click="hacerVisible(15)")
           figcaption Nota. En este caso además de energía eléctrica, se obtiene vapor de agua y agua caliente. Tomada de Absorsistem (s. f.).
@@ -190,13 +190,13 @@
         .row.justify-content-center
           .col-12.col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 23. </b> <i>Ciclo combinado</i>
+              p.titulo.pb-0.mb-0 <b>Figura 22. </b> <i>Ciclo combinado</i>
             figure.mt-3(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema5/tema5-16.png', alt='', @click="hacerVisible(16)")
               figcaption Nota. Este ciclo genera energía eléctrica con turbina de gas y turbina de vapor alimentada por vapor calentado por los gases de escape de la turbina. Tomada de naturgy (s. f.).
           .col-12.col-md-6
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 24. </b> <i>Ciclo combinado</i>
+              p.titulo.pb-0.mb-0 <b>Figura 23. </b> <i>Ciclo combinado</i>
             figure.mt-3(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema5/tema5-17.jpeg', alt='', @click="hacerVisible(17)")
               figcaption Nota. Tomada de Pumps Bombas (s. f.). 
@@ -226,10 +226,10 @@
 
         .row.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0
-            p En el ejemplo de la figura 25 se puede observar que hay una disminución de combustible consumido de 21%, al pasar de requerir 215 unidades de gas natural a 170 para producir la misma cantidad de energía eléctrica y térmica, debido a que se pasó de tener una eficiencia térmica de 60% al 76,5%.
+            p En el ejemplo de la figura 24 se puede observar que hay una disminución de combustible consumido de 21%, al pasar de requerir 215 unidades de gas natural a 170 para producir la misma cantidad de energía eléctrica y térmica, debido a que se pasó de tener una eficiencia térmica de 60% al 76,5%.
           .col-md-7
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 25. </b> <i>Comparación entre generación convencional y cogeneración</i>
+              p.titulo.pb-0.mb-0 <b>Figura 24. </b> <i>Comparación entre generación convencional y cogeneración</i>
             figure.mt-2
               img(src='@/assets/curso/temas/tema5/tema5-20.png', alt='', @click="hacerVisible(20)")
 

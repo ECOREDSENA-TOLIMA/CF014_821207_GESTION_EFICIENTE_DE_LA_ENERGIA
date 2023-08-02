@@ -51,19 +51,19 @@
             | #[strong Ventilación:] se diseña para aprovechar las corrientes de aire en dirección opuesta (ventilación cruzada), renovar el aire y garantizar ventilación en todo el espacio; esta puede ser natural y convectiva. 
       .col-md-6.col-12.py-3
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 45. </b> <i>Trayectoria del sol en diferentes latitudes</i>
+          p.titulo.pb-0.mb-0 <b>Figura 44. </b> <i>Trayectoria del sol en diferentes latitudes</i>
         figure.mt-2(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema11/tema11-01.png', alt='')
           figcaption Nota. Tomada de Seiscubos (2018). 
 
       .col-12.py-2
         .cajon.color-acento-contenido.p-4.mb-4
-          p(data-aos="fade-right") Existen efectos que favorecen la ventilación y la salida del calor acumulado al interior. Entre ellos el efecto Venturi, creando aberturas en la parte superior a lado y lado de las caras más comúnmente enfrentadas al viento, que cuando pasa a través de las aberturas succiona el aire del interior extrayendo calor. 
-          p(data-aos="fade-right") También usa el efecto chimenea, que aprovecha que aire caliente es menos denso que el frío y por tanto tiende a ascender, se implementa haciendo pequeñas aberturas cerca al piso, por las que entra el aire frío más denso, en una parte alta de las paredes o en el techo se ubica una abertura por la que sale el aire cálido, esto crea un flujo de aire interior evitando la acumulación de calor.
+          p(data-aos="fade-right") Existen efectos que favorecen la ventilación y la salida del calor acumulado al interior. Entre ellos, el efecto Venturi, creando aberturas en la parte superior a lado y lado de las caras más comúnmente enfrentadas al viento, que cuando pasa a través de las aberturas succiona el aire del interior extrayendo calor. 
+          p(data-aos="fade-right") También usa el efecto chimenea, que aprovecha que aire caliente es menos denso que el frío, y por tanto, tiende a ascender, se implementa haciendo pequeñas aberturas cerca al piso, por las que entra el aire frío más denso, en una parte alta de las paredes o en el techo se ubica una abertura por la que sale el aire cálido, esto crea un flujo de aire interior evitando la acumulación de calor.
           .row.justify-content-center.align-items-center
             .col-md-8.col-12
               .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-                p.titulo.pb-0.mb-0 <b>Figura 46. </b> <i>Efectos Venturi y chimenea</i>
+                p.titulo.pb-0.mb-0 <b>Figura 45. </b> <i>Efectos Venturi y chimenea</i>
               figure.mt-2(data-aos="fade-down")
                 img(src='@/assets/curso/temas/tema11/tema11-02.png', alt='')
                 figcaption Nota. Tomada de Arquitectura bioclimática.
@@ -71,11 +71,11 @@
           
       .col-12.py-2
         .cajon.color-acento-botones.p-4.mb-4
-          p(data-aos="fade-right") Otra medida para evitar la acumulación de calor es el diseño de techos altos e inclinados, ya que la inclinación reduce la cantidad de radiación solar que se absorbe, frente a los techos planos. Cada 10 grados de inclinación permiten aproximadamente 10% menos de acumulación de calor de radiación solar (Arias, et al., 2013).
+          p(data-aos="fade-right") Otra medida para evitar la acumulación de calor es el diseño de techos altos e inclinados, ya que la inclinación reduce la cantidad de radiación solar que se absorbe, frente a los techos planos. Cada 10 grados de inclinación permiten aproximadamente 10% menos de acumulación de calor de radiación solar (Arias, et al. 2013).
           .row.justify-content-center.align-items-center
             .col-md-8.col-12
               .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-                p.titulo.pb-0.mb-0 <b>Figura 47. </b> <i>Radiación solar en techos</i>
+                p.titulo.pb-0.mb-0 <b>Figura 46. </b> <i>Radiación solar en techos</i>
               figure.mt-2(data-aos="fade-down")
                 img(src='@/assets/curso/temas/tema11/tema11-03.png', alt='')
                 figcaption Nota. Tomada de Manual de diseño de edificaciones energéticamente eficientes en el trópico s.f. 
@@ -99,7 +99,7 @@
             | #[strong Control y uso inteligente del espacio:] al construir un edificio se intenta dar las dimensiones adecuadas a la casa y sus estancias con el objetivo de optimizar el uso de energía.
           li(data-aos="fade-down")
             i.fas.fa-atom(style="color: #0F58B9")
-            | #[strong Integración de energías renovables:] las construcciones bioclimáticas incorporan varios tipos de energías de energías renovables para evitar consumir energía de la red.
+            | #[strong Integración de energías renovables:] las construcciones bioclimáticas incorporan varios tipos de energías renovables para evitar consumir energía de la red.
           li(data-aos="fade-down")
             i.fas.fa-atom(style="color: #0F58B9")
             | #[strong Materiales:] los edificios bioclimáticos utilizan materiales sustentables, como la madera, fibras naturales, piedra, materiales reciclados, etc., que reducen los impactos de la construcción.
@@ -108,18 +108,18 @@
     #t_11_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 11.3 Casas pasivas
 
-    p(data-aos="fade-right") Conocidas como #[i Passivhaus] por su nombre en alemán, son un tipo de construcción que, además de adaptar la edificación a las condiciones del entorno, lo hacen con el consumo de energía interno, para reducir la necesidad de energía térmica Estas construcciones deben cumplir con especificaciones establecidas en el estándar del #[i Passivhaus Institut] para obtener una certificación.
+    p(data-aos="fade-right") Conocidas como #[i Passivhaus] por su nombre en alemán, son un tipo de construcción que, además de adaptar la edificación a las condiciones del entorno, lo hacen con el consumo de energía interno, para reducir la necesidad de energía térmica. Estas construcciones deben cumplir con especificaciones establecidas en el estándar del #[i Passivhaus Institut] para obtener una certificación.
 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-8.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 48. </b> <i>Principios de una casa pasiva</i>
+          p.titulo.pb-0.mb-0 <b>Figura 47. </b> <i>Principios de una casa pasiva</i>
         figure.mt-2(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema11/tema11-04.png', alt='')
           figcaption Nota. Tomada de Iberdrola (s. f.). 
 
-    p(data-aos="fade-right") Otra forma de construcción sostenible es la arquitectura vernácula que incluye las técnicas con las que se construían casas en la antigüedad, cuando no existían los medios para climatizar, por lo que las viviendas se concebían para dar confort térmico, además de estar hechas de materiales sostenibles. La tapia o el bahareque son ejemplos de arquitectura vernácula sostenible.
+    p(data-aos="fade-right") Otra forma de construcción sostenible es la arquitectura vernácula, que incluye las técnicas con las que se construían casas en la antigüedad, cuando no existían los medios para climatizar, por lo que las viviendas se concebían para dar confort térmico, además de estar hechas de materiales sostenibles. La tapia o el bahareque son ejemplos de arquitectura vernácula sostenible.
 
 </template>
 

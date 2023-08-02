@@ -95,7 +95,7 @@
               img(src='@/assets/curso/temas/tema3/tema3-02.png', alt='En climas cálidos')
           .col-md-6.mb-4.mb-md-0
             .h4 En climas cálidos
-            p Que predomina en gran parte del territorio colombiano, el sistema de climatización más utilizado es el aire acondicionado. Su función es enfriar el aire dentro del espacio a climatizar haciéndolo pasar alrededor de un evaporador con refrigerante a baja temperatura. El sistema toma el aire del lugar que se desea enfriar, lo pasa por el evaporador y lo impulsa nuevamente dentro del ambiente a una menor temperatura.
+            p Que predomina en gran parte del territorio colombiano, el sistema de climatización más utilizado es el aire acondicionado. Su función es enfriar el aire dentro del espacio a climatizar, haciéndolo pasar alrededor de un evaporador con refrigerante a baja temperatura. El sistema toma el aire del lugar que se desea enfriar, lo pasa por el evaporador y lo impulsa nuevamente dentro del ambiente a una menor temperatura.
 
         .row.justify-content-center.align-items-center
           .col-md-6
@@ -172,7 +172,7 @@
               img(src='@/assets/curso/temas/tema3/tema3-12.png', alt='Condensador ')
           .col-md-6.mb-4.mb-md-0
             .h4 Condensador  
-            p El condensador es otro intercambiador de calor, en cuyo interior se encuentra el gas refrigerante a una presión tal que empieza a retornar a estado líquido. En el condensador el refrigerante intercambia calor con el aire exterior, entregando el calor absorbido durante el proceso de evaporación. En la figura se pueden ver las partes descritas en un aire acondicionado tipo #[i split] (comúnmente también llamado #[i minisplit]).
+            p El condensador es otro intercambiador de calor, en cuyo interior se encuentra el gas refrigerante a una presión tal que empieza a retornar a estado líquido. En el condensador, el refrigerante intercambia calor con el aire exterior, entregando el calor absorbido durante el proceso de evaporación. En la figura se pueden ver las partes descritas en un aire acondicionado tipo #[i split] (comúnmente también llamado #[i minisplit]).
         
         .row.justify-content-center.align-items-center
           .col-md-6.col-12
@@ -252,7 +252,7 @@
       .col-md-6.col-12(data-aos="fade-down")
         .cajon.color-primario.p-4.mb-4
           p Las bombas de calor son máquinas térmicas que transportan energía en forma de calor de un espacio a otro. Funcionan bajo los mismos principios y con los mismos componentes fundamentales que el aire acondicionado. La diferencia con estos últimos radica en que las bombas de calor están diseñadas para producir calor en un recinto en vez de frío, por lo que se utilizan para calefacción y calentamiento de agua. La inversión del funcionamiento se logra haciendo uso de un componente llamado válvula de inversión, también conocida como válvula de cuatro vías. 
-          p Las bombas de calor también aprovechan los cambios de estado de un refrigerante y son equipos muy utilizado en zonas en las que hay cambios estacionales de clima, sirviendo en invierno o verano. Los componentes de la bomba de calor son: compresor, condensador, válvula de expansión, evaporador. 
+          p Las bombas de calor también aprovechan los cambios de estado de un refrigerante y son equipos muy utilizados en zonas en las que hay cambios estacionales de clima, sirviendo en invierno o verano. Los componentes de la bomba de calor son: compresor, condensador, válvula de expansión, evaporador. 
 
 
     Separador

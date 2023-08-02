@@ -76,7 +76,7 @@
             p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Intercambiador de tubos y coraza de un solo paso</i>
           figure.mt-2
             img(src='@/assets/curso/temas/tema1/tema1-10.png', alt='',  @click="hacerVisible(10)")
-            figcaption.text-small Nota. La zona rosada corresponde al fluido que pasa a través de los tubos, la zona blanca corresponde al fluido que pasa por la coraza. Tomado de Transferencia de calor y masa (p. 612), por Cengel, 2007, McGraw-Hill.
+            figcaption.text-small Nota. La zona rosada corresponde al fluido que pasa a través de los tubos, la zona blanca corresponde al fluido que pasa por la coraza. Tomado de Transferencia de calor y masa, por Cengel (2007), (p. 612).
         .col-md-8.col-12
           figure.mt-2
             img(src='@/assets/curso/temas/tema1/tema1-09.png', alt='Intercambiador de tubos y coraza de un solo paso')

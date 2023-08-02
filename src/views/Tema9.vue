@@ -28,7 +28,7 @@
           div(x="9.8%" y="90.5%" numero="4" tooltip="Aspecto 4")
             p La siguiente figura muestra algunos sectores que emplean hornos en sus procesos, los tipos y para qué se usa.
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0.text-small <b>Figura 37. </b> <i>Sectores industriales que usan hornos en sus procesos</i>
+              p.titulo.pb-0.mb-0.text-small <b>Figura 36. </b> <i>Sectores industriales que usan hornos en sus procesos</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema9/tema9-02.svg', alt='Sectores industriales que usan hornos en sus procesos', @click="hacerVisible(13)")
               figcaption Nota. Tomada del Banco de Desarrollo de América Latina. (s. f).
@@ -49,7 +49,7 @@
             p También es posible variar la velocidad de recorrido en el interior. Son usados para grandes volúmenes de producción, principalmente en la producción de alimentos, ladrillos y cerámicos para construcción, vajillas o aisladores eléctricos.
           .col-md-10.col-lg-9.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 38. </b> <i>Horno túnel</i>
+              p.titulo.pb-0.mb-0 <b>Figura 37. </b> <i>Horno túnel</i>
           .col-md-10.col-lg-9.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema9/tema9-03.png', alt='')
@@ -69,7 +69,7 @@
             p En el siguiente enlace se puede hacer un recorrido virtual por un horno de producción de #[i Clinker] para cemento <a href="https://www.asseguratte.es/asseguratte360/videos/web/index.htm" target="_blank">https://www.asseguratte.es/asseguratte360/videos/web/index.htm</a>
           .col-md-10.col-lg-9.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 39. </b> <i>Proceso de producción de Clinker</i>
+              p.titulo.pb-0.mb-0 <b>Figura 38. </b> <i>Proceso de producción de Clinker</i>
           .col-md-10.col-lg-9.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema9/tema9-04.png', alt='')

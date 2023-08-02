@@ -111,8 +111,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Las calderas se pueden clasificar de muchas formas:
-              p.text-small Según el material del que están hechas, la disposición de los fluidos, el combustible usado, la presión de operación, entre otros criterios. La clasificación más común es según la disposición de los fluidos, y se dividen en pirotubulares y acuotubulares.
+              h4.mb-1 Explicación funcionamiento Caldera de vapor
+              p.text-small Explicación básica del funcionamiento de la caldera de vapor ATTSU modelo RL pirotubular.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=QJRaP0BDt7I" target="_blank")
                 span Abrir
@@ -182,7 +182,7 @@
         .row.justify-content-center.align-items-center
           .col-12.mb-md-0
             p Donde mv es el flujo másico de vapor dado en kg/segundo; %purga es el porcentaje de agua dentro de la caldera que se extrae para ser reemplazada por agua de alimentación, es decir, agua que entra por primera vez al sistema: hv es la entalpía del agua en condiciones de entrada al sistema.
-            p Por ultimo, es necesario calcular la energía aportada por el combustible, de la siguiente manera:
+            p Por último, es necesario calcular la energía aportada por el combustible, de la siguiente manera:
           .col-md-6.col-10
             figure
               img(src='@/assets/curso/temas/tema2/tema2-15.svg', alt='Donde mv es el flujo másico de vapor dado en kg/segundo', @click="hacerVisible(15)")

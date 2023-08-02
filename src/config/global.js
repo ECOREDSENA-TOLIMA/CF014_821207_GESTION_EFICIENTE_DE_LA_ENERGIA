@@ -358,7 +358,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Intercambiador de calor',
+      tema: '1.1. Intercambiador de calor',
       referencia:
         'Alfa Laval. (2019). <em>Cómo funciona un intercambiador de calor.</em> ',
       tipo: 'Video',
@@ -366,35 +366,35 @@ export default {
         'https://corporate.alfalaval.com/como-funciona-un-intercambiador-de      ',
     },
     {
-      tema: 'Componentes de una caldera',
+      tema: '2.1. Componentes de una caldera',
       referencia:
         'Attsu Térmica. (2019). <em>ATTSU Caldera de vapor RL - Explicación funcionamiento.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=QJRaP0BDt7I ',
     },
     {
-      tema: 'Cogeneración',
+      tema: '5. Cogeneración',
       referencia:
         'Tecnológico de Monterrey Innovación Educativa. (2017). <em>La cogeneración como estrategia para el aprovechamiento de la energía.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=r0MFyzJAueI',
     },
     {
-      tema: 'Motores eléctricos',
+      tema: '6. Motores eléctricos',
       referencia:
         'Mentalidad de ingeniería. (2021). <em>Cómo funcionan los motores eléctricos - motores de inducción de CA trifásicos motor de CA.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=MuNEI1b1F4w',
     },
     {
-      tema: 'Automatización y digitalización para la eficiencia energética',
+      tema: '7. Automatización y digitalización para la eficiencia energética',
       referencia:
         'Refrigeración Industrial Beirute. (2019). <em>¿Qué es el BMS?.</em> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=H39neD0i0Vw',
     },
     {
-      tema: 'Distritos térmicos',
+      tema: '8. Distritos térmicos',
       referencia:
         'Empresas Públicas de Medellín. (2017). <em>Distrito Térmico EPM, un proyecto que contribuye a la eficiencia energética y al cuidado del medio ambiente en Medellín.</em> EPM.',
       tipo: 'Página Web',
@@ -402,34 +402,34 @@ export default {
         'https://www.epm.com.co/site/inversionistas/inversionistas/noticias-y-novedades/distrito-t%C3%A9rmico-epm-un-proyecto-que-contribuye-a-la-eficiencia-energ%C3%A9tica',
     },
     {
-      tema: 'Distritos térmicos',
+      tema: '8. Distritos térmicos',
       referencia: 'Celsia Energía. (2017). <em>Distrito Térmico - Celsia.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=D5FFNx_3zy0',
     },
     {
-      tema: 'Hornos rotatorios',
+      tema: '9. Hornos rotatorios',
       referencia:
         'Asseguratte. (s. f.). <em>Etapas de fabricación del cemento.</em>',
       tipo: 'Video (Recorrido virtual)',
       link: 'https://www.asseguratte.es/asseguratte360/videos/web/index.htm',
     },
     {
-      tema: 'Altos hornos',
+      tema: '9.3 Altos hornos',
       referencia:
         'Documentales TV. (2014). <em>Funcionamiento alto horno.</em> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=WerjnkrTqI0',
     },
     {
-      tema: 'Hornos de arco eléctrico',
+      tema: '9.4 Hornos de arco eléctrico',
       referencia:
         'Miquelmatias. (2012). <em>Horno de arco eléctrico - Herramientas.</em> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0bKbBJUR7hk',
     },
     {
-      tema: 'Arquitectura bioclimática',
+      tema: '11. Arquitectura bioclimática',
       referencia:
         'Proyectartv. (2017). <em>¿Qué es la arquitectura bioclimática?.</em> ',
       tipo: 'Video',

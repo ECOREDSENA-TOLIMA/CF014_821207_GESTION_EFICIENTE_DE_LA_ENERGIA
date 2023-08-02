@@ -47,7 +47,7 @@
             img(src='@/assets/curso/temas/tema7/tema7-09.png', alt='')
       .row(titulo="Variables de operación")
         .col-md-7.mb-4.mb-md-0
-          p Las variables de operación pueden ser medidas y controladas, por ejemplo un proceso de combustión usado en hornos, calderas y reactores, tiene niveles óptimos de relación aire/combustible que varían según la operación o necesidades de producción; un sistema automatizado de control puede variar los niveles de aire o combustible de forma que sean óptimos y como resultado el consumo de combustible mermaría. 
+          p Las variables de operación pueden ser medidas y controladas, por ejemplo, un proceso de combustión usado en hornos, calderas y reactores, tiene niveles óptimos de relación aire/combustible que varían según la operación o necesidades de producción; un sistema automatizado de control puede variar los niveles de aire o combustible de forma que sean óptimos y como resultado el consumo de combustible mermaría. 
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema7/tema7-10.png', alt='')
@@ -132,7 +132,7 @@
             p El sistema de control automático puede estar conectado a servidores en la nube para el monitoreo del desempeño, toma de decisiones mediante algoritmos y control desde dispositivos electrónicos a distancia. En la figura se puede ver un diagrama de los componentes de un sistema de control de edificios basado en un controlador #[i Arduino].
           .col-md-10.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 28. </b> <i>Componentes de un sistema de control de edificios</i>
+              p.titulo.pb-0.mb-0 <b>Figura 27. </b> <i>Componentes de un sistema de control de edificios</i>
           .col-md-10.col-12(data-aos="fade-right") 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema7/tema7-05.svg', alt='')

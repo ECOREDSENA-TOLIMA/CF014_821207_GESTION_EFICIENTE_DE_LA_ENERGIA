@@ -73,7 +73,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4  
       .col-md-8.col-lg-6.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 26. </b> <i>Partes de un motor eléctrico</i>
+          p.titulo.pb-0.mb-0 <b>Figura 25. </b> <i>Partes de un motor eléctrico</i>
         figure.mt-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema6/tema6-07.png', alt='', @click="hacerVisible(7)")
           figcaption Nota. Tomado de Mheducation (s. f.). 
@@ -141,7 +141,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4  
       .col-md-11.col-lg-10.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 27. </b> <i>Placa de características del motor eléctrico</i>
+          p.titulo.pb-0.mb-0 <b>Figura 26. </b> <i>Placa de características del motor eléctrico</i>
       .col-md-6.col-lg-6.col-12
         figure.mt-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema6/tema6-13.png', alt='', @click="hacerVisible(13)")
