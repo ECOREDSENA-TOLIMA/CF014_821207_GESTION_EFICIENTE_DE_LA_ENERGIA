@@ -96,7 +96,7 @@
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-md-10.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 48. </b> <i>Esquema de la metodología MCEE</i>
+          p.titulo.pb-0.mb-0 <b>Figura 47. </b> <i>Esquema de la metodología MCEE</i>
         figure.mt-2(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema12/tema12-01.png', alt='')
           figcaption Nota. Tomada de Revista Espacios s.f. 

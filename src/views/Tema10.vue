@@ -90,7 +90,7 @@
             p Su reemplazo por nuevas tecnologías es una de las principales metas de los planes de ahorro eléctrico.
           .col-md-10.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 39. </b> <i>Lámparas incandescentes</i>
+              p.titulo.pb-0.mb-0 <b>Figura 38. </b> <i>Lámparas incandescentes</i>
           .col-md-10.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema10/tema10-09.png', alt='')
@@ -128,19 +128,19 @@
         .row.justify-content-center.align-items-center
           .col-md-10.col-12.mb-4
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 40. </b> <i>Lámparas fluorescentes</i>
+              p.titulo.pb-0.mb-0 <b>Figura 39. </b> <i>Lámparas fluorescentes</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema10/tema10-10.png', alt='')
               figcaption Nota. Tomada de Ingenio virtual (2021). 
           .col-md-10.col-12.mb-4
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 41. </b> <i>Lámparas fluorescentes compactas</i>
+              p.titulo.pb-0.mb-0 <b>Figura 40. </b> <i>Lámparas fluorescentes compactas</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema10/tema10-11.png', alt='')
               figcaption Nota. Tomada de Ingenio virtual (2021). 
           .col-md-10.col-12 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 42. </b> <i>Lámparas halógenas</i>
+              p.titulo.pb-0.mb-0 <b>Figura 41. </b> <i>Lámparas halógenas</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema10/tema10-12.png', alt='')
               figcaption Nota. Tomada de Ingenio virtual (2021). 
@@ -155,7 +155,7 @@
         .row.justify-content-center.align-items-center
           .col-md-10.col-12.mb-4
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 43. </b> <i>Lámparas LED</i>
+              p.titulo.pb-0.mb-0 <b>Figura 42. </b> <i>Lámparas LED</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema10/tema10-13.png', alt='')
               figcaption Nota. Tomada de Ingenio virtual (2021). 

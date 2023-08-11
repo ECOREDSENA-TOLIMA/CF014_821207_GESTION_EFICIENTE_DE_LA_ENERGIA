@@ -26,12 +26,12 @@
             p Los hornos se encuentran incorporados en los procesos de diferentes industrias y sectores, por ejemplo, el sector de alimentos, tomando parte fundamental en la producción de galletas, tostadas, pan, entre otros. En industrias productoras de materiales de construcción se usan para fabricar cerámicos, ladrillos, cemento, etc. En el sector siderúrgico y metalmecánico sirven para la producción de acero y otros metales, además de usarse para realizar tratamientos térmicos a las aleaciones metálicas para mejorar sus propiedades mecánicas. 
 
           div(x="9.8%" y="90.5%" numero="4" tooltip="Aspecto 4")
-            p La siguiente figura muestra algunos sectores que emplean hornos en sus procesos, los tipos y para qué se usa.
+            p La siguiente tabla muestra algunos sectores que emplean hornos en sus procesos, los tipos y para qué se usa.
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0.text-small <b>Figura 36. </b> <i>Sectores industriales que usan hornos en sus procesos</i>
+              p.titulo.pb-0.mb-0.text-small <b>Tabla 4. </b> <i>Sectores industriales que usan hornos en sus procesos</i>
             figure.mt-2(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema9/tema9-02.svg', alt='Sectores industriales que usan hornos en sus procesos', @click="hacerVisible(13)")
-              figcaption Nota. Tomada del Banco de Desarrollo de América Latina. (s. f).
+              figcaption(style="color:#000") Nota. Tomada del Banco de Desarrollo de América Latina. (s. f).
 
     p(data-aos="fade-right") Existen diferentes tipos de hornos, diseñados para múltiples usos, según las necesidades de las empresas que los utilizan. Son tipo túnel, giratorio, altos hornos, de arco eléctrico y de fusión, de los cuales se describen resumidamente algunos a continuación. 
 
@@ -49,7 +49,7 @@
             p También es posible variar la velocidad de recorrido en el interior. Son usados para grandes volúmenes de producción, principalmente en la producción de alimentos, ladrillos y cerámicos para construcción, vajillas o aisladores eléctricos.
           .col-md-10.col-lg-9.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 37. </b> <i>Horno túnel</i>
+              p.titulo.pb-0.mb-0 <b>Figura 36. </b> <i>Horno túnel</i>
           .col-md-10.col-lg-9.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema9/tema9-03.png', alt='')
@@ -69,7 +69,7 @@
             p En el siguiente enlace se puede hacer un recorrido virtual por un horno de producción de #[i Clinker] para cemento <a href="https://www.asseguratte.es/asseguratte360/videos/web/index.htm" target="_blank">https://www.asseguratte.es/asseguratte360/videos/web/index.htm</a>
           .col-md-10.col-lg-9.col-12.p-2(data-aos="fade-right") 
             .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-              p.titulo.pb-0.mb-0 <b>Figura 38. </b> <i>Proceso de producción de Clinker</i>
+              p.titulo.pb-0.mb-0 <b>Figura 37. </b> <i>Proceso de producción de Clinker</i>
           .col-md-10.col-lg-9.col-12 
             figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema9/tema9-04.png', alt='')

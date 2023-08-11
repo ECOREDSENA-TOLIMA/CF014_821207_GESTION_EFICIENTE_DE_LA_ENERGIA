@@ -51,7 +51,7 @@
             | #[strong Ventilación:] se diseña para aprovechar las corrientes de aire en dirección opuesta (ventilación cruzada), renovar el aire y garantizar ventilación en todo el espacio; esta puede ser natural y convectiva. 
       .col-md-6.col-12.py-3
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 44. </b> <i>Trayectoria del sol en diferentes latitudes</i>
+          p.titulo.pb-0.mb-0 <b>Figura 43. </b> <i>Trayectoria del sol en diferentes latitudes</i>
         figure.mt-2(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema11/tema11-01.png', alt='')
           figcaption Nota. Tomada de Seiscubos (2018). 
@@ -63,7 +63,7 @@
           .row.justify-content-center.align-items-center
             .col-md-8.col-12
               .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-                p.titulo.pb-0.mb-0 <b>Figura 45. </b> <i>Efectos Venturi y chimenea</i>
+                p.titulo.pb-0.mb-0 <b>Figura 44. </b> <i>Efectos Venturi y chimenea</i>
               figure.mt-2(data-aos="fade-down")
                 img(src='@/assets/curso/temas/tema11/tema11-02.png', alt='')
                 figcaption Nota. Tomada de Arquitectura bioclimática.
@@ -75,7 +75,7 @@
           .row.justify-content-center.align-items-center
             .col-md-8.col-12
               .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-                p.titulo.pb-0.mb-0 <b>Figura 46. </b> <i>Radiación solar en techos</i>
+                p.titulo.pb-0.mb-0 <b>Figura 45. </b> <i>Radiación solar en techos</i>
               figure.mt-2(data-aos="fade-down")
                 img(src='@/assets/curso/temas/tema11/tema11-03.png', alt='')
                 figcaption Nota. Tomada de Manual de diseño de edificaciones energéticamente eficientes en el trópico s.f. 
@@ -114,7 +114,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-md-8.col-12
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-right")
-          p.titulo.pb-0.mb-0 <b>Figura 47. </b> <i>Principios de una casa pasiva</i>
+          p.titulo.pb-0.mb-0 <b>Figura 46. </b> <i>Principios de una casa pasiva</i>
         figure.mt-2(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema11/tema11-04.png', alt='')
           figcaption Nota. Tomada de Iberdrola (s. f.). 
