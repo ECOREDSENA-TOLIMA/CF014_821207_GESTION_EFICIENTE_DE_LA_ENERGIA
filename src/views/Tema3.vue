@@ -121,7 +121,7 @@
             .titulo-sexto.color-acento-botones.mb-0
               p.titulo.pb-0.mb-0 <b>Figura 10. </b> <i>Descripción del funcionamiento de un sistema de aire acondicionado</i>
             figure.mt-2
-              img(src='@/assets/curso/temas/tema3/tema3-06.png', alt='Descripción del funcionamiento de un sistema de aire acondicionado')
+              img(src='@/assets/curso/temas/tema3/tema3-06.svg', alt='Descripción del funcionamiento de un sistema de aire acondicionado')
           .col-md-6.mb-4.mb-md-0
             p Ahora bien, al hablar de sistemas de aire acondicionados, se habla de equipo de consumo final de energía y, por lo tanto, de eficiencia energética, la cual se define como el cociente entre la potencia de enfriamiento y la potencia eléctrica que consume.
         
